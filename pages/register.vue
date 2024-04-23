@@ -7,7 +7,7 @@
         <div class="info-right col-lg-6 p-0">
         <div class="col-12 flex-column center-itms mt-3">
             <img src="/img/logos-juntos.svg" alt="" class="center-itms">
-            <h4 class="featurette-heading titulo-login center-itms">¡Comencemos!</h4>
+            <h1 class="featurette-heading titulo-login center-itms">¡Comencemos!</h1>
             <p class="center-itms">{{$t('Register.main_title')}}</p>
         </div>
         <div class="col-12 center-itms">

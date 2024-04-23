@@ -1,10 +1,10 @@
 <template>
     <div>
 <!-- Seccion de recetas  -->
-<section class="recetas container col-md-12" v-if="!mobile">
+<section class="recetas container col-md-12 mt-20" v-if="!mobile">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2 class="featurette-heading">{{RecipeData.receta.recipe_title}}</h2>
+      <h1 class="featurette-heading">{{RecipeData.receta.recipe_title}}</h1>
       <img class="img-fluid separador" src="/img/separador.svg" alt="separador">
 
       <div class="row info-block"> <!--row1-->

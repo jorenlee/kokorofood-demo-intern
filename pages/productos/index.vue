@@ -93,7 +93,7 @@
                   </li>
                   <li class="page-item">
                     <p class="page-link">
-                      <strong>Página {{ page }}</strong
+                      <strong>Página{{ page }}</strong
                       >/{{ countPages }}
                     </p>
                   </li>

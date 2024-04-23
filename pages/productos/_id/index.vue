@@ -70,9 +70,9 @@
               $t("Buttons.Back")
             }}</NuxtLink>
           </p>
-          <h2 class="featurette-heading pr-3 pt-5 pb-4 pl-0">
+          <h1 class="featurette-heading pr-3 pt-5 pb-4 pl-0">
             {{ ProductData.name }}
-          </h2>
+          </h1>
           <p class="precio">
             <strong>
               {{ $t("general.price") }}:

@@ -13,8 +13,8 @@
         <div class="info-text info-cont-mob">
           <img src="/img/mobil/top-seccion-img.jpg" alt="" class="top-img-secc">
           <div class="col-12">
-            <h2 class="featurette-heading">Recetas de<span class="text-muted"><br>
-              Ajo Negro</span></h2>
+            <h1 class="featurette-heading">Recetas de<span class="text-muted"><br>
+              Ajo Negro</span></h1>
           </div>
             <img class="" src="/img/separador.svg" alt="separador">
         </div>

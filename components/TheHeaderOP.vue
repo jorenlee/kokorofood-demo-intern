@@ -3,7 +3,7 @@
                 <div class="col-md-3 order-md-1" :style="{backgroundColor: background }">
                 </div>
             <div class="col-md-3 order-md-3 float-text">
-                <h2 class="featurette-heading" v-html="title"></h2>
+                <h1 class="featurette-heading" v-html="title"></h1>
                 <img class="img-fluid separador" src="/img/separador.svg" alt="separador">
             </div>
             <div class="col-md-9 order-md-2 right-col">

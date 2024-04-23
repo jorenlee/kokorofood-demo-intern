@@ -54,8 +54,8 @@
                 <h2 class="featurette-heading">Nuestro<br>Propósito</h2>
                 <img class="img-fluid separador" src="/img/separador.svg" alt="separador">
                 <p>{{ $t('Nosotros.proposito_1')}} </p>
-                <p>{{ $t('Nosotros.proposito_2')}}
-                    <img class="img-fluid logos-nos" src="/img/logos-kokoros.svg" alt="">
+                <p>{{ $t('Nosotros.proposito_2')}}</p>
+                    <img class="img-fluid logos-nos" src="/img/logos-kokoros.svg" alt=""/>
                 <p>Kokorofoods.com <strong> contacto@kokorofoods.com</strong></p>
                 <p><a class="btn btn-lg btn-primary" href="">{{ $t('Nosotros.escribenos')}} </a></p>
             </div>

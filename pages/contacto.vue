@@ -3,8 +3,8 @@
          <section class="informacion container col-md-12">
         <div class="row featurette">
           <div :class="{'col-3 order-md-1': !mobile, 'col-12':mobile}">
-            <h2 class="featurette-heading">Escríbenos<span class="text-muted"><br>
-                Contacto</span></h2>
+            <h1 class="featurette-heading">Escríbenos<span class="text-muted"><br>
+                Contacto</span></h1>
             <img class="img-fluid separador" src="/img/separador.svg" alt="separador">
             <div v-if="!mobile">
                 <p>{{ $t('Contacto.main-blurb')}}</p>

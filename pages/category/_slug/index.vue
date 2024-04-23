@@ -120,7 +120,7 @@ export default {
               <NuxtLink
                 class="text-md text-black hover:text-black font-bold leading-[18px] mx-auto border border-black w-fit block py-3 mt-4 px-6 rounded-md"
                 :to="localePath('/productos/' + item.id)"
-                >COMPRAR</NuxtLink
+                >COMPRAR</NuxtLink 
               >
             </li>
           </ul>

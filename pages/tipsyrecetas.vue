@@ -14,7 +14,7 @@
               aria-label="Buscar"
             />
             <button class="btn btn-primary search-btn" type="submit">
-              Buscar
+              Buscar 
             </button>
           </div>
           <p class="n-articulo">Filtros</p>
